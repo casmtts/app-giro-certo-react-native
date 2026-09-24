@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+node_modules/
+.expo/
+dist/
+mobile/.expo/
+mobile/dist/
+mobile/web-build/
+backend/target/
+backend/.idea/
+backend/uploads/
+*.iml
+*.log

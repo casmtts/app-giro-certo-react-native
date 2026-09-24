@@ -1,0 +1,7 @@
+.git
+.env
+**/node_modules
+**/.expo
+**/dist
+**/target
+**/.DS_Store
