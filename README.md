@@ -14,20 +14,20 @@ A proposta continua simples: ajudar pessoas a encontrar e anunciar motocicletas.
 
 O redesign considera o fluxo completo de quem compra e de quem anuncia: explorar e filtrar motos, consultar detalhes, guardar favoritos, editar o perfil e publicar um anúncio com fotos. A paleta, a tipografia e os padrões visuais estão descritos em [`DESIGN.md`](DESIGN.md).
 
-## Fotos usadas no catálogo de demonstração
+## Telas do projeto
 
-Estas fotos ilustram os anúncios carregados no catálogo de demonstração e mostram como imagens de motocicletas aparecem nos cards do Giro Certo.
+As imagens abaixo mostram o redesign do Giro Certo para 2026: autenticação, catálogo de motos, filtros de busca e detalhes de um anúncio. Elas documentam a direção visual e os principais fluxos do projeto.
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=800&q=85" alt="Motocicleta usada no anúncio de demonstração do Giro Certo" width="380" />
-  <img src="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=800&q=85" alt="Segunda motocicleta do catálogo de demonstração" width="380" />
+  <img src="docs/screenshots/login-2026.png" alt="Tela de login e cadastro do Giro Certo 2026" width="190" />
+  <img src="docs/screenshots/feed-2026.png" alt="Feed de motos do Giro Certo 2026" width="190" />
 </p>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1558981852-426c6c22a060?auto=format&fit=crop&w=800&q=85" alt="Terceira motocicleta do catálogo de demonstração" width="380" />
-  <img src="https://images.unsplash.com/photo-1609630875171-b1321377ee65?auto=format&fit=crop&w=800&q=85" alt="Quarta motocicleta do catálogo de demonstração" width="380" />
+  <img src="docs/screenshots/filters-2026.png" alt="Filtros de motos do Giro Certo 2026" width="190" />
+  <img src="docs/screenshots/details-honda-cbr-600rr-2026.png" alt="Detalhes do anúncio Honda CBR 600RR no Giro Certo 2026" width="190" />
 </p>
 
-> As imagens e os anúncios são apenas demonstrativos. Não representam ofertas reais nem anúncios de vendedores cadastrados.
+> As telas representam o projeto e sua proposta de UI/UX. Os dados de anúncios exibidos nelas são ilustrativos.
 
 ## O que foi atualizado em 2026
 
